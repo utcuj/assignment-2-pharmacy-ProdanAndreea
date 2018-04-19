@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<medications>
+<medication>
+<id>1</id>
+<name>Aspirin</name>
+<ingredients>hypromellose, lactose monohydrate, methacrylic acid copolymer</ingredients>
+<manufacturer>ASE</manufacturer>
+<quantity>108</quantity>
+<price>12.7</price>
+</medication>
+<medication>
+<id>2</id>
+<name>Revf</name>
+<ingredients>Opanol, Fetimium</ingredients>
+<manufacturer>Wall</manufacturer>
+<quantity>41</quantity>
+<price>23.5</price>
+</medication>
+
+<medication>
+<id>3</id>
+<name>VitD</name>
+<ingredients>Vit D</ingredients>
+<manufacturer>Qre</manufacturer>
+<quantity>0</quantity>
+<price>16</price>
+</medication>
+
+
+</medications>
